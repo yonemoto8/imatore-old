@@ -1,5 +1,7 @@
 {
   "name": "imatore",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
